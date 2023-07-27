@@ -30,7 +30,7 @@ If you are developing a production application, we recommend updating the config
 
 Я вибрав предметну область магазин айфонів і реалізував всі вимоги
 
-## 2 Збірна проекту
+## 2 Збірка проекту
 
 Проект був зібраний за допомогою yarn create vite
 
@@ -42,7 +42,7 @@ If you are developing a production application, we recommend updating the config
 
 TypeScript, React, ReduxToolkit, MUI, Axios, json-server
 
-## 5 Комантарі
+## 5 Коментарі
 
 Взагальному всі вимоги виконав і одну додаткову (зберігання даних в localStorage), від себе добавив в кошику кнопки + -
 для збільшення/зменшення кількості товару, а також підрахунок загальної вартості. З drag and drop ніколи не працював, тому не виконував
