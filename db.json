@@ -1,0 +1,84 @@
+{
+  "phones": [
+    {
+      "id": 1,
+      "model": "Iphone 14",
+      "memory": 512,
+      "color": "Green",
+      "price": 1080,
+      "count": 1
+    },
+    {
+      "id": 2,
+      "model": "Iphone 13 Pro",
+      "memory": 256,
+      "color": "Black",
+      "price": 990,
+      "count": 1
+    },
+    {
+      "id": 3,
+      "model": "Iphone 8+",
+      "memory": 512,
+      "color": "Rose",
+      "price": 240,
+      "count": 1
+    },
+    {
+      "id": 4,
+      "model": "Iphone 6s",
+      "memory": 64,
+      "color": "Silver",
+      "price": 180,
+      "count": 1
+    },
+    {
+      "id": 5,
+      "model": "Iphone XS",
+      "memory": 64,
+      "color": "Gold",
+      "price": 310,
+      "count": 1
+    },
+    {
+      "id": 6,
+      "model": "Iphone 12 Pro",
+      "memory": 512,
+      "color": "Gold",
+      "price": 999,
+      "count": 1
+    },
+    {
+      "id": 7,
+      "model": "Iphone 14 Pro Max",
+      "memory": 512,
+      "color": "Black",
+      "price": 1300,
+      "count": 1
+    },
+    {
+      "id": 8,
+      "model": "Iphone 8",
+      "memory": 128,
+      "color": "Black",
+      "price": 230,
+      "count": 1
+    },
+    {
+      "id": 9,
+      "model": "Iphone 11",
+      "memory": 128,
+      "color": "Green",
+      "price": 310,
+      "count": 1
+    },
+    {
+      "id": 10,
+      "model": "Iphone SE",
+      "memory": 64,
+      "color": "Red",
+      "price": 270,
+      "count": 1
+    }
+  ]
+}
